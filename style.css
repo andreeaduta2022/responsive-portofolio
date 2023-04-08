@@ -22,3 +22,10 @@ border-radius: 4px;font-size: 18px; padding: 15px 30px;}
     border-radius: 4px;
     font-size: 18px;
     padding: 15px 30px;color:white}
+.horizontal_line {
+    background-color:none;
+    width: 100%;
+    height: 0.5px;
+    border-top: 2px dashed #67D5D2;
+ 
+}
